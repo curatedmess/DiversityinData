@@ -1,1 +1,1 @@
-# #DiversityinData Community Project
+# DiversityinData Community Project
